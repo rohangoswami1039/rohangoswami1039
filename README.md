@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rohan%20Goswami&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=20" alt="header" />
 </p>
 
+<!-- Animated typing tagline -->
+<p align="center">
+  <a href="https://github.com/rohangoswami1039">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+GraphQL+%7C+TypeScript;Building+web+platforms+at+scale;Turning+complex+flows+into+simple+UX" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:rohan.goswami1039@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rohan-goswami-74b919391"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,16 +20,31 @@
 
 ### 🚀 About Me
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+</picture>
+
+- 🔭 &nbsp;I'm currently building **large-scale grant & program management platforms**
+- 🌱 &nbsp;I'm deepening my skills in **distributed systems, GraphQL federation & performant React**
+- 👯 &nbsp;I'm looking to collaborate on **open-source TypeScript & React projects**
+- 💬 &nbsp;Ask me about **React, Node.js, GraphQL, TypeScript & MongoDB**
+- ⚡ &nbsp;Fun fact: I love untangling tricky UI race conditions and making complex flows feel simple
+
 ```typescript
 const rohan: Engineer = {
   role: "Full-Stack Software Engineer",
-  building: "large-scale grant & program management platforms",
-  learning: ["distributed systems", "GraphQL federation", "performant React"],
-  collaboratingOn: "open-source TypeScript & React projects",
-  askMeAbout: ["React", "Node.js", "GraphQL", "TypeScript", "MongoDB"],
-  funFact: "I enjoy untangling tricky UI race conditions and making complex flows feel simple"
+  stack: ["React", "Node.js", "GraphQL", "TypeScript", "MongoDB"],
+  passion: "clean code & delightful UX",
+  currentlyExploring: "distributed systems @ scale",
+  motto: "Make the complex feel simple ✨"
 }
 ```
+
+<br clear="both" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ---
 
