@@ -5,6 +5,7 @@
 
 <!-- Animated typing tagline -->
 <p align="center">
+  <br>
   <a href="https://github.com/rohangoswami1039">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+GraphQL+%7C+TypeScript;Building+web+platforms+at+scale;Turning+complex+flows+into+simple+UX" alt="Typing SVG" />
   </a>
