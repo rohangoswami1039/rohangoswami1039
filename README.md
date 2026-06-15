@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rohan%20Goswami&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rohan%20Goswami&fontSize=55&fontColor=ffffff&animation=fadeIn alt="header" />
 </p>
 
 <!-- Animated typing tagline -->
